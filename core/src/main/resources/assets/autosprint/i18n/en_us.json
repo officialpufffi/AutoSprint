@@ -1,0 +1,13 @@
+{
+    "autosprint": {
+        "settings": {
+            "name": "Auto Sprint",
+            "enabled": {
+                "name": "Enabled"
+            },
+            "text": {
+                "name": "TextField"
+            }
+        }
+    }
+}
